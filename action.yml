@@ -6,4 +6,4 @@ runs:
   image: 'Dockerfile'
 branding:
   icon: 'cloud'
-  color: 'red'
+  color: 'blue'
