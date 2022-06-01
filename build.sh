@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t chrissank/deploy-firebase-functions .
+docker build -t afgallo/deploy-firebase-functions .
