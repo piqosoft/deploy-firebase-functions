@@ -1,5 +1,5 @@
 name: 'Deploy Firebase Functions'
-author: 'Andre Gallo <afgallo@gmail.com>, Adu Williams <aduwillie@gmail.com>, Chris Sankey'
+author: 'Andre Gallo <afgallo@gmail.com>'
 description: 'A GitHub Action to deploy to Firebase Functions. It allows deployment of different targets i.e. development, production, etc.'
 runs:
   using: 'docker'
